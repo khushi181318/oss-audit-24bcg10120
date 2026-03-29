@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 1: System Identity Report
 
-STUDENT_NAME="Khushi Singh"
+STUDENT_NAME="Khushi kumari"
 SOFTWARE_CHOICE="Git"
 
 KERNEL=$(uname -r)
