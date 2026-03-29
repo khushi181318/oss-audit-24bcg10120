@@ -1,5 +1,8 @@
 # oss-audit-24bcg10120
 Open Source Audit project based on Git with shell scripting tasks
+## Course Details
+Course: Open Source Software  
+Project: Open Source Audit  
 
 # Open Source Audit Project
 
