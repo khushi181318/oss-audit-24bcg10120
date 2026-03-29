@@ -29,6 +29,7 @@ Along with the theory part, I have also created 5 shell scripts using Linux comm
 ## System Used
 - Ubuntu 24.04 (VirtualBox)
 - Bash shell
+- Git version : 2.43.0
 
 ---
 
