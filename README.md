@@ -73,4 +73,6 @@ Run scripts one by one:
 
 ## Conclusion
 This project helped me understand both the theoretical and practical side of open-source software. Git is a very powerful tool and is widely used in the software industry. Through this project, I gained confidence in using Linux and working with open-source tools.
+## Personal Note
+While doing this project, I faced some difficulties in setting up Ubuntu and using terminal commands, but gradually I learned how to work with Linux and shell scripting. This project helped me gain practical knowledge along with theoretical understanding of open source.
 
