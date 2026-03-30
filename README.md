@@ -15,7 +15,7 @@ Roll Number: 24BCG10120
 ## Chosen Software
 Git
 Linux Kernel
-Firefox
+
 
 ---
 
